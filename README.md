@@ -1,18 +1,18 @@
-# Freight APIs Community
+# DSDC APIs Community
 
-Welcome to the Freight APIs community!
+Welcome to the DSDC APIs community!
 
-This document is an entry-point for contributing to the Freight APIs community.
+This document is an entry-point for contributing to the DSDC APIs community.
 _______
 ## How to get involved?
 
-The following sections describe how to contribute to Freight APIs.
+The following sections describe how to contribute to DSDC APIs.
 
 ### Using GitHub Discussions
 
 We use GitHub discussions to start communication whether it is for public feedback, questions, discussions, suggestions, or announcements. Meeting notes and decisions will be recorded under each API section as they occur.
 
-Discussions will be available through this repository and also available at the [freightapis](https://github.com/freightapis) organization.
+Discussions will be available through this repository and also available at the [dsdcapis](https://github.com/dsdcapis) organization.
 
 ### Using GitHub Issues
 
