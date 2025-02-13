@@ -12,7 +12,7 @@ The following sections describe how to contribute to DSDC APIs.
 
 We use GitHub discussions to start communication whether it is for public feedback, questions, discussions, suggestions, or announcements. Meeting notes and decisions will be recorded under each API section as they occur.
 
-Discussions will be available through this repository and also available at the [dsdcapis](https://github.com/dsdcapis) organization.
+Discussions will be available through this repository and also available at the [dsdcapis organization](https://github.com/orgs/dsdcapis/discussions).
 
 ### Using GitHub Issues
 
